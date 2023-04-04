@@ -15,8 +15,8 @@ Browse to yourdomain.com/yourfolder/ndjson_to_csv.php\
 Upload App_Privacy_Report_vX_XXXX-XX-XXXXX_XX_XX.ndjson with the HTML Form shown on the Page\
 Open the ndjson.csv file and search for the app you want to block on your PiHole
 
-![source](/ndjson-source.jpg)
-![result](/csv-result.jpg)
+![source](./ndjson-source.jpg)
+![result](./csv-result.jpg)
 
 ### How it works:
 This is a PHP script that converts NDJSON (Newline Delimited JSON) data to CSV (Comma Separated Values) format.\
