@@ -31,7 +31,7 @@ It first checks if an NDJSON file is uploaded via a form and if there are no err
 It then reads the NDJSON file line by line, converts each line to a JSON object, and if the object has the necessary keys,\
 it adds the corresponding values to a multidimensional array.\
 Finally, it outputs the data in the right format by setting the appropriate headers.\
-If no file is uploaded or there is an error in the upload, it displays an HTML form for file upload.
+If no file is uploaded or there is an error in the upload, it displays an HTML form again for file upload.
 
 ### Please keep in mind:
 This PHP script is not secure enough to run on public instances due to security vulnerabilities. It is important to ensure that the script has proper input validation and error handling to prevent malicious attacks such as SQL injection or cross-site scripting (XSS). Additionally, it is recommended to use the latest version of PHP and keep the script updated with security patches. Failure to do so could leave your application open to potential security risks and compromise sensitive data.
