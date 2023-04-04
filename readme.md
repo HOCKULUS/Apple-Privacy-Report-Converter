@@ -8,7 +8,7 @@ Scroll down and tap on "Privacy & Security".\
 Scroll down and tap on "App Privacy Report".\
 Tap on "Share".\
 Choose a location to save the report (e.g. Files, Notes, etc.).\
-The report will be saved as a CSV file that you can open and view on your device or computer.
+The report will be saved as a ndjson file.
 
 ### Convert NDJSON to CSV:
 Copy ndjson_to_csv.php on your Webserver\
