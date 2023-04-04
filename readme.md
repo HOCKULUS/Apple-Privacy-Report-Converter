@@ -32,3 +32,6 @@ It then reads the NDJSON file line by line, converts each line to a JSON object,
 it adds the corresponding values to a multidimensional array.\
 Finally, it outputs the data in CSV format by setting the appropriate headers and using the fputcsv() function to write the data to the output stream.\
 If no file is uploaded or there is an error in the upload, it displays an HTML form for file upload.
+
+### please keep in mind
+This script is not secure enough to run on public instances.
