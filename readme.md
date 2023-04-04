@@ -26,11 +26,11 @@ Open the blocklist.txt file and search for the domain/app you want to block on y
 ![result](result-csv.jpg)
 
 ### How it works:
-This is a PHP script that converts NDJSON (Newline Delimited JSON) data to CSV (Comma Separated Values) format.\
+This is a PHP script that converts NDJSON (Newline Delimited JSON) data to CSV (Comma Separated Values) or to pihole blocklist format.\
 It first checks if an NDJSON file is uploaded via a form and if there are no errors in the upload.\
 It then reads the NDJSON file line by line, converts each line to a JSON object, and if the object has the necessary keys,\
 it adds the corresponding values to a multidimensional array.\
-Finally, it outputs the data in CSV format by setting the appropriate headers and using the fputcsv() function to write the data to the output stream.\
+Finally, it outputs the data in the right format by setting the appropriate headers.\
 If no file is uploaded or there is an error in the upload, it displays an HTML form for file upload.
 
 ### Please keep in mind:
