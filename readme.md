@@ -15,7 +15,7 @@ Browse to yourdomain.com/yourfolder/ndjson_to_csv.php\
 Upload App_Privacy_Report_vX_XXXX-XX-XXXXX_XX_XX.ndjson with the HTML Form shown on the Page\
 Open the ndjson.csv file and search for the app you want to block on your PiHole
 
-![source](ndjson-source.jpg)
+![source](source-ndjson.jpg)
 ![result](result-csv.jpg)
 
 ### How it works:
