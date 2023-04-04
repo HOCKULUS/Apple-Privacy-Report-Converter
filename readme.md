@@ -1,5 +1,6 @@
 # Apple-Privacy-Report-Converter
 ## Easy Way to block In-App-Ads with Apple Privacy Report - Made for PiHole
+![form](html-form.jpg)
 
 ### Export a Privacy Report on your iPhone:
 Open the Settings app on your iPhone.\
