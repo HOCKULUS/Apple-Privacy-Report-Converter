@@ -4,8 +4,8 @@
 
 ### Export a Privacy Report on your iPhone:
 Open the Settings app on your iPhone.\
-Scroll down and tap on "Safari".\
-Scroll down to the "Privacy & Security" section and tap on "Privacy Report".\
+Scroll down and tap on "Privacy & Security".\
+Scroll down and tap on "App Privacy Report".\
 Tap on "Share".\
 Choose a location to save the report (e.g. Files, Notes, etc.).\
 The report will be saved as a CSV file that you can open and view on your device or computer.
