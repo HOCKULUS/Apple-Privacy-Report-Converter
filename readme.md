@@ -33,5 +33,5 @@ it adds the corresponding values to a multidimensional array.\
 Finally, it outputs the data in CSV format by setting the appropriate headers and using the fputcsv() function to write the data to the output stream.\
 If no file is uploaded or there is an error in the upload, it displays an HTML form for file upload.
 
-### please keep in mind
-This script is not secure enough to run on public instances.
+### please keep in mind:
+This PHP script may not be secure enough to run on public instances due to potential security vulnerabilities. It is important to ensure that the script has proper input validation and error handling to prevent malicious attacks such as SQL injection or cross-site scripting (XSS). Additionally, it is recommended to use the latest version of PHP and keep the script updated with security patches. Failure to do so could leave your application open to potential security risks and compromise sensitive data.
